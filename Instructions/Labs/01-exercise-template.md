@@ -1,3 +1,11 @@
+---
+lab:
+  title: カスタム エージェントを作成してテストする
+  description: このタスクでは、カスタム エージェントを作成し、エージェントをテストします。
+  duration: 60 minutes
+  level: 300
+  islab: true
+---
 
 ラボ:'Microsoft 365 エージェント SDK を使用してカスタム エンジン エージェントを作成する'
 ---
